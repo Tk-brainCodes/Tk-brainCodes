@@ -1,3 +1,3 @@
  👋 Hi There!
 
-Am ThankGod Eboreime, a front-end developer based in Abuja, Nigeria. I love coding and sharing ideas to bring out solutions. Get in touch with me  😜.
+I am ThankGod Eboreime, a front-end developer. I love coding and sharing ideas that brings out solutions. Get in touch with me  😜.
