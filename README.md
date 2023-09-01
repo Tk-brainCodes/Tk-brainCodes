@@ -1,3 +1,3 @@
  👋 Hi There!
 
-I am ThankGod Eboreime, a front-end developer. I love coding and sharing ideas that brings out solutions.Lets Collaborate!!.
+I am a Frontend Engineer passionate about building seamless user interfaces with a knack for solving real-world problems.
