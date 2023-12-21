@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Eboreime ThankGod</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
@@ -17,8 +15,6 @@
 - 💬 Ask me about **react, ds/algo, next js, react-native**
 
 - 📫 How to reach me **ikhuohoneboreimethankgod@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fxYTdosQNa8Pf1emJ6gQqaQWfqEi7too/view](https://drive.google.com/file/d/1fxYTdosQNa8Pf1emJ6gQqaQWfqEi7too/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
