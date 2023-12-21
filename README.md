@@ -1,5 +1,3 @@
-<img align="center" alt="Coding" width="800" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.freepik.com/free-vector/developer-activity-concept-illustration_9319773.htm#query=coding%20illustration&position=6&from_view=keyword&track=ais&uuid=6b401e15-7940-40ed-a0fb-3f80a03d9127)">
-
 
 
 <h1 align="center">Hi 👋, I'm Eboreime ThankGod</h1>
