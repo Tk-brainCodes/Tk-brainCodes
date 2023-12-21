@@ -1,9 +1,11 @@
+<iframe src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Eboreime ThankGod</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tk-braincodes" alt="tk-braincodes" /></a> </p>
 
-<im align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/22/a5/c7/22a5c746a97687ea11af86ee8bfabe20.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Chilink-Web**
 
