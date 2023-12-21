@@ -1,7 +1,7 @@
-<p align="center">
-[![MasterHead](https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=740&t=st=1703121962~exp=1703122562~hmac=3f3b34369ae798ddcf907be37547d0f0d06f40e1c0e3b75421f1668649ee0e1a)](https://eboreime-thankgod.vercel.app/)
+<img align="center" alt="Coding" width="800" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.freepik.com/free-vector/developer-activity-concept-illustration_9319773.htm#query=coding%20illustration&position=6&from_view=keyword&track=ais&uuid=6b401e15-7940-40ed-a0fb-3f80a03d9127)">
 
-</p>
+
+
 <h1 align="center">Hi 👋, I'm Eboreime ThankGod</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
