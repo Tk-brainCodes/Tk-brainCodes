@@ -4,7 +4,7 @@ I have a passion for developing software applications and leveraging AI and larg
 
 ## About Me
 
-I am a front-end engineer who loves working closely with both engineers and designers to create exceptional products that meet specific needs. With a profound curiosity and passion for continuous learning, I embrace emerging technologies and seek challenges in the front-end landscape.
+I am a front-end engineer who loves working closely with both engineers and designers to create exceptional products that meet specific needs. With a profound curiosity and passion for continuous learning, I embrace emerging technologies and seek challenges in the software landscape.
 
 ## Skills
 
