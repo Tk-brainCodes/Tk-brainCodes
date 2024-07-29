@@ -8,21 +8,16 @@ I am a front-end engineer who loves working closely with both engineers and desi
 
 ## Skills
 
-- **Languages & Frameworks**:
-  - Typescript
-  - JavaScript (ES6)
-  - Node.js
-  - Express.js
-  - Next.js (13+)
-  - React/Redux
-  - React Query
-- **Web Development**:
-  - HTML5
-  - CSS3/SCSS
-  - Tailwind CSS
-- **APIs & Tools**:
-  - RestAPI
-  - Git & GitHub
+
+| Category                         | Skills                                                                                   |
+|----------------------------------|------------------------------------------------------------------------------------------|
+| **Languages**                    | JavaScript (ES6+), TypeScript, Python                                                    |
+| **Frameworks/Libraries**         | React.js, Next.js, React Native, Redux, Jest, Cypress                                    |
+| **UI/Design**                    | HTML5, CSS3, SASS, Tailwind CSS, Material UI, Framer Motion                              |
+| **Backend Technologies / Database & ORM** | Node.js, Express, GraphQL, REST APIs, Prisma (ORM), Firebase, MongoDB, MySQL  |
+| **Tools & Platforms**            | Docker, Kubernetes, GitHub, Vercel                                                       |
+| **Others**                       | Responsive Design, SEO Optimization, Google Analytics, Clean Architecture                |
+
 
 ## Get in Touch
 
