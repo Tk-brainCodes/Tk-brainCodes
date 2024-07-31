@@ -18,11 +18,3 @@ I am a front-end engineer who loves working closely with both engineers and desi
 | **Tools & Platforms**            | Docker, Kubernetes, GitHub, Vercel                                                       |
 | **Others**                       | Responsive Design, SEO Optimization, Google Analytics, Clean Architecture                |
 
-
-## Get in Touch
-
-Feel free to connect with me!
-
-- [LinkedIn](https://www.linkedin.com/in/thankgod-eboreime-34864a1b1/)
-- [Twitter](https://x.com/tkworldclass)
-- [Email](ikhuohoneboreimethankgod@gmail.com)
